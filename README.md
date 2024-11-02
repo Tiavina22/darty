@@ -1,4 +1,4 @@
-# Darty is a Css framework
+# Darty is a sCss framework
 
 My CSS Framework is a Dart-based CSS framework inspired by SCSS and TailwindCSS. It allows developers to write CSS using variables, mixins, and functions in a SCSS-like syntax. Darty is the best.
 
